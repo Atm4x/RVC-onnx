@@ -28,7 +28,7 @@ uv pip install -r requirements.txt
 
 ## Usage
 
-#### 1) Download .onnx model and place it into `onnx_folder` folder.
+#### 1) Download .onnx model and place it into `onnx_models` folder.
 #### 2) Put your .wav audio file into `input` folder.
 #### 3) Run the program and wait for the result:
 ```bash
