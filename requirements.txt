@@ -1,8 +1,8 @@
 soundfile
+standard-aifc
 huggingface_hub
 onnxruntime
 onnxruntime-gpu
 librosa
 numpy
 pyworld
-aifc
