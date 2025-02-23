@@ -5,3 +5,4 @@ onnxruntime-gpu
 librosa
 numpy
 pyworld
+aifc
