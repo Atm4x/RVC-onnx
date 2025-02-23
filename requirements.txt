@@ -1,0 +1,7 @@
+soundfile
+huggingface_hub
+onnxruntime
+onnxruntime-gpu
+librosa
+numpy
+pyworld

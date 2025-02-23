@@ -1,0 +1,8 @@
+input/*
+output/*
+onnx_models/*
+assets/*
+*.pt
+*.onnx
+__pycache__
+.cache
